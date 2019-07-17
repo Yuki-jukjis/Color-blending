@@ -533,5 +533,5 @@ z = HSVtoRGB(Z);
 
 ## 出典、参考文献など
 + [Adobe Photoshop での描画モード - Adobe Help Center](https://helpx.adobe.com/jp/photoshop/using/blending-modes.html)
-+ [osakana.factory | ブレンドモード詳説](https://ofo.jp/osakana/cgtips/blendmode.phtml)
++ [osakana.factory - ブレンドモード詳説](https://ofo.jp/osakana/cgtips/blendmode.phtml)
 + [WolframAlpha](https://www.wolframalpha.com/)
